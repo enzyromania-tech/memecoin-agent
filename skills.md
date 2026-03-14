@@ -50,7 +50,7 @@ SOLANA_RPC_URL=https://rpc.solanatracker.io/public
 NEXT_PUBLIC_SOLANA_RPC_URL=https://rpc.solanatracker.io/public
 
 # The token mint address of your tokenized agent on pump.fun
-AGENT_TOKEN_MINT_ADDRESS=G3uK8LVsx9T9gVMXaDqHz6jffGcSzGpqS4QszJGBpump
+AGENT_TOKEN_MINT_ADDRESS=EqYvjKZwTMT6nqAw1wh3qK4DQ3kHPk5sBLSGcPzdpump
 
 # Payment currency mint
 # USDC: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v
